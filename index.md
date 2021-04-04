@@ -4,7 +4,7 @@
 
 My name is Issac Navarro. I am a second year CSE major and I come from Oxnard, California.
 
-**Check out my [readme](readme.md)!**
+**Check out my [readme](README.md)!**
 
 ## Education and Experiences
 
