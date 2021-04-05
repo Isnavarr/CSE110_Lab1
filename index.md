@@ -1,5 +1,8 @@
 # Issac Navarro's User Page
 
+![img](unnamed.jpg)
+*I am on the right*
+
 ## *About Me*
 
 My name is Issac Navarro. I am a second year CSE major and I come from Oxnard, California.
